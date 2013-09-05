@@ -1,4 +1,8 @@
-# Vagrant for Dummies
+---
+layout: post
+title:  "Vagrant for Dummies"
+date:   2013-08-24
+---
 
 [Vagrant](http://www.vagrantup.com/) is a tool that let's you quickly spin up virtual machines. Now, whenever I start a new project, I like to include a Vagrantfile and spin up a virtual machine for a few reasons. However, the distance between starting projects is just long enough that I forget how to do it. So here's a reminder to myself:
 
